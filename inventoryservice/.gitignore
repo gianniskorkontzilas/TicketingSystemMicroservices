@@ -32,6 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 
-# Docker volumes - IGNORE volume folders
-inventoryservice/volume-data/
-inventoryservice/volume-data/
+### Docker volumes ###
+**/volume-data/
